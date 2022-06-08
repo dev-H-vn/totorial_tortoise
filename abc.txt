@@ -1,1 +1,5 @@
+<<<<<<< .mine
+change to pust call it is commit 4 to ckeck learn git marge
+=======
 change text to push to check marge
+>>>>>>> .theirs
